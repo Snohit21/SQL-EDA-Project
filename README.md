@@ -25,9 +25,7 @@ sql-data-analytics-project/
 │       ├── dim_products.csv
 │       └── fact_sales.csv
 ├── docs/
-│   ├── Project Roadmap.pdf
-│   ├── Project Roadmap.png
-│   └── Project_Notes_Sketches.pdf
+│   └── project_roadmap.svg           # Original project roadmap (all phases)
 ├── scripts/
 │   ├── 00_init_database.sql             # DB + schema setup
 │   ├── 01_database_exploration.sql      # Table & column inventory
